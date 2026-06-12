@@ -1,4 +1,4 @@
-# Distorted Visual Sequence Pattern Recognition using Deep Learning
+# DistortiText : Distorted Visual Sequence Pattern Recognition using Deep Learning
 
 ## Project Overview
 
