@@ -103,4 +103,4 @@ The results demonstrate that CRNN-based sequence recognition is highly effective
 
 **Gunakala Piyoosh Pranav**
 
-Machine Learning & Artificial Intelligence Enthusiast
+
