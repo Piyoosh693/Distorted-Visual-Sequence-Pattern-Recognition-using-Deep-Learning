@@ -97,3 +97,10 @@ Prediction: AXU323
 * Generated predictions for the complete test dataset using the best saved checkpoint.
 
 The results demonstrate that CRNN-based sequence recognition is highly effective for OCR tasks involving noisy and visually distorted text images.
+---
+
+## Author
+
+**Gunakala Piyoosh Pranav**
+
+Machine Learning & Artificial Intelligence Enthusiast
